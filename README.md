@@ -18,3 +18,5 @@ Aula Inicial Figma:
 - 06/03 => Apresentação do protótipo em papel do App Racha Conta (Persona e Protótipo Papel)
 
 - 13/03 => Vocês já devem ter no mínimo ter assistido ao vídeo "Aula Inicial Figma" - Início da construção do Racha Conta no Figma
+
+- 13/03 => Construção do protótipo Minhas Tarefas no Figma. Compartilhamento em grupo.
